@@ -9,6 +9,13 @@
 </p>
 
 
+# பயன்பாடு
+
+Print a string
+`எழுது '123'; // print a letter`
+
+
+
 
 # Grammar
 
