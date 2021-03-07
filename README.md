@@ -1,11 +1,4 @@
-
-In the memory of my pet. Gone, not forgotten.
-
-<img src="https://user-images.githubusercontent.com/18109258/106678800-75015280-65e1-11eb-8959-21c5b23a4f23.png" height="250" width="250"/>
-
-
-
-# Myna
+# Agaram
 A programming language in tamil
 
 
