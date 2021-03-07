@@ -1,5 +1,5 @@
-# Agaram
-A programming language in tamil
+# அகரம்
+ஒரு தமிழ் நிரலாக்க மொழி
 
 
 # Grammar
