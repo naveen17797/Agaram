@@ -1,5 +1,13 @@
 # அகரம்
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18109258/110229583-9a5ee480-7f30-11eb-8ccd-1eb56e97da78.png" height="512px" width="512px"/>
+</p>
+
+<p align="center">
 ஒரு தமிழ் நிரலாக்க மொழி
+</p>
+
 
 
 # Grammar
