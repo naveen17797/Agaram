@@ -8,6 +8,9 @@ import core.memory.Environment;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.nio.charset.Charset;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.List;
 
 public class Interpreter {
@@ -15,7 +18,23 @@ public class Interpreter {
     public static final Environment environment = new Environment();
 
     public static void main(String[] args) throws IOException {
+        if (args.length > 1) {
+            System.out.println("அகரம் : script_file_name.அ");
+            System.exit(64);
+        } else if (args.length == 1) {
+            runFile(args[0]);
+        } else {
             runPrompt();
+        }
+    }
+
+    private static void runFile(String path) throws IOException {
+        byte[] bytes = Files.readAllBytes(Paths.get(path));
+        run(new String(bytes, Charset.defaultCharset()));
+    }
+
+    private static void run(String s) {
+        interpret(s);
     }
 
 
