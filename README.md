@@ -1,5 +1,7 @@
 # அகரம்
 
+[![Join the chat at https://gitter.im/Agaram-Programming-Language/community](https://badges.gitter.im/Agaram-Programming-Language/community.svg)](https://gitter.im/Agaram-Programming-Language/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/18109258/110229583-9a5ee480-7f30-11eb-8ccd-1eb56e97da78.png" height="512px" width="512px"/>
 </p>
