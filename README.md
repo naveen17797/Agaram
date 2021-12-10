@@ -1,3 +1,5 @@
+# Note : Repository moved to this URL https://github.com/agaram-programming-language/agaram-interpreter
+
 # அகரம்
 
 [![Join the chat at https://gitter.im/Agaram-Programming-Language/community](https://badges.gitter.im/Agaram-Programming-Language/community.svg)](https://gitter.im/Agaram-Programming-Language/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
